@@ -1,6 +1,6 @@
 {
   "name": "QuillMediaBridge",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "minimum_awt_version": "27.0.0",
   "maximum_awt_version": null,
   "author": "ElStefanos",
@@ -10,7 +10,7 @@
   "icon": "data/icon/icon.webp",
   "preview_image": null,
   "license": "MIT",
-  "license_url": null,
+  "license_url": "https://github.com/Advanced-Web-Tools/Quill-Media-Bridge/blob/main/LICENSE",
   "dependencies": [
     {
       "name": "MediaLibrary",
