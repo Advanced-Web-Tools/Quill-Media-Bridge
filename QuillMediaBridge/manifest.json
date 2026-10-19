@@ -1,0 +1,26 @@
+{
+  "name": "QuillMediaBridge",
+  "version": "1.0.1",
+  "minimum_awt_version": "27.0.0",
+  "maximum_awt_version": null,
+  "author": "ElStefanos",
+  "type": 1,
+  "system_package": 1,
+  "description": "Registers Media Library and album providers in Quill. Runtime only, without routes or standalone UI.",
+  "icon": "data/icon/icon.webp",
+  "preview_image": null,
+  "license": "MIT",
+  "license_url": null,
+  "dependencies": [
+    {
+      "name": "MediaLibrary",
+      "version": ">=1.0.0",
+      "url": "https://github.com/Advanced-Web-Tools/MediaLibrary/releases/download/1.0.0/MediaLibrary-1.0.0.zip"
+    },
+    {
+      "name": "Quill",
+      "version": ">=1.0.0",
+      "url": "https://github.com/Advanced-Web-Tools/Quill/releases/download/1.0.0/Quill-1.0.0.zip"
+    }
+  ]
+}
